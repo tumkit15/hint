@@ -7,7 +7,7 @@
     "timeout": "1m"
   },
   "dependencies": {
-    "cloudinary": "^1.9.1",
+    "cloudinary": "^1.13.1",
     "fs-extra": "^7.0.0",
     "image-size": "^0.6.3"
   },
